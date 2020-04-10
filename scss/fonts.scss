@@ -1,0 +1,83 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../../fonts/icomoon.eot?jds2xy');
+  src:  url('../../fonts/icomoon.eot?jds2xy#iefix') format('embedded-opentype'),
+    url('../../fonts/icomoon.ttf?jds2xy') format('truetype'),
+    url('../../fonts/icomoon.woff?jds2xy') format('woff'),
+    url('../../fonts/icomoon.svg?jds2xy#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-eye:before {
+  content: "\e90a";
+}
+.icon-rocket:before {
+  content: "\e904";
+  color: #fff;
+}
+.icon-pensilsvg:before {
+  content: "\e905";
+}
+.icon-heartsvg:before {
+  content: "\e906";
+}
+.icon-feathersvg:before {
+  content: "\e907";
+}
+.icon-forrst:before {
+  content: "\e908";
+}
+.icon-facebook-form:before {
+  content: "\e909";
+}
+.icon-envelope:before {
+  content: "\e90b";
+  color: #0eb493;
+}
+.icon-friends:before {
+  content: "\e90c";
+  color: #fff;
+}
+.icon-cup:before {
+  content: "\e90d";
+  color: #fff;
+}
+.icon-clock:before {
+  content: "\e90e";
+  color: #193719;
+}
+.icon-behance:before {
+  content: "\e90f";
+}
+.icon-twittersvg:before {
+  content: "\e900";
+}
+.icon-megaphonesvg:before {
+  content: "\e910";
+}
+.icon-facebooksvg:before {
+  content: "\e901";
+}
+.icon-dribbblesvg:before {
+  content: "\e902";
+}
+.icon-googlesvg:before {
+  content: "\e903";
+}
